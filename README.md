@@ -1,8 +1,9 @@
 # JavascriptCourse_Udemy
 
-## Completed
+## Completed ✔️ ❌
 
 - [✔️] Basic datatype
 - [✔️] Coersion
 - [✔️] Mutation
-- [❌] Basic Operators
+- [✔️] Basic Operators
+- [❌] Operator Precedence
