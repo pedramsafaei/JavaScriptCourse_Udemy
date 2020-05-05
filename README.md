@@ -24,3 +24,9 @@
 - [✔️] CODING CHALLENGE 4
 - [✔️] Loops and iteration
 - [✔️] CODING CHALLENGE 5
+
+### Section 3: How JavaScript works
+
+- [❌] Hoisting
+- [❌] Scoping
+- [❌] The this keyword
