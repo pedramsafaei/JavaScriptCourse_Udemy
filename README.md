@@ -1,8 +1,8 @@
 # JavascriptCourse_Udemy
 
-## Completed ✔️ ❌
+## Completed ✔️ Not Completed ❌
 
-### Basic
+### Section 2: JavaScript Basics
 
 - [✔️] Basic datatype
 - [✔️] Coersion
@@ -19,8 +19,8 @@
 - [✔️] Functions2
 - [✔️] Arrays
 - [✔️] CODING CHALLENGE 3
-- [❌] Objects and properties
-- [❌] Objects and methods
-- [❌] CODING CHALLENGE 4
-- [❌] Loops and iteration
-- [❌] CODING CHALLENGE 5
+- [✔️] Objects and properties
+- [✔️] Objects and methods
+- [✔️] CODING CHALLENGE 4
+- [✔️] Loops and iteration
+- [✔️] CODING CHALLENGE 5
