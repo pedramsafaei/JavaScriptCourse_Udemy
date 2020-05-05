@@ -1,4 +1,4 @@
-# JavascriptCourse_Udemy
+# [The Complete JavaScript Course 2020](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ## Completed ✔️ Not Completed ❌
 
