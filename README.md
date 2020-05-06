@@ -27,6 +27,8 @@
 
 ### Section 3: How JavaScript works
 
-- [❌] Hoisting
-- [❌] Scoping
-- [❌] The this keyword
+- [✔️] Hoisting
+- [✔️] Scoping
+- [✔️] The this keyword
+
+### Section 4: DOM Game
