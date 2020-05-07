@@ -33,7 +33,10 @@
 
 ### Section 4: Pig Game
 
-- [✔️] add index
-- [✔️] add css
-- [❌] add js
-- [✔️] add img
+- [✔️] Add index
+- [✔️] Add css
+- [✔️] Add js
+- [✔️] Add img
+- [✔️] Do the Challenge
+
+### Section 5: Advanced JavaScript
