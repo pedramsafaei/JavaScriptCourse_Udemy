@@ -33,7 +33,7 @@
 
 ### Section 4: Pig Game
 
-- [❌] add index
-- [❌] add css
+- [✔️] add index
+- [✔️] add css
 - [❌] add js
-- [❌] add img
+- [✔️] add img
