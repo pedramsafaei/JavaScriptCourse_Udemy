@@ -31,4 +31,9 @@
 - [✔️] Scoping
 - [✔️] The this keyword
 
-### Section 4: DOM Game
+### Section 4: Pig Game
+
+- [❌] add index
+- [❌] add css
+- [❌] add js
+- [❌] add img
