@@ -40,3 +40,13 @@
 - [✔️] Do the Challenge
 
 ### Section 5: Advanced JavaScript
+
+- [✔️] Function Contructor
+- [✔️] Object Create
+- [✔️] Primitives vs Objects
+- [✔️] Pass Functions as parameters
+- [✔️] Return Functions
+- [✔️] IIFE
+- [❌] Closure
+- [❌] Bind Call Apply
+- [❌] Coding Challenge
