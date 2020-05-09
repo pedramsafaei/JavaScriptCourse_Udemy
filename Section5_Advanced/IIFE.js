@@ -14,4 +14,6 @@ game();
 (function (goodLuck) {
   var score = Math.random() * 10;
   console.log(score >= 5 - goodLuck);
+  // console.log(score);
+  // console.log(5 - goodLuck);
 })(5);
