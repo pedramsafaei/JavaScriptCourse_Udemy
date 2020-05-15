@@ -47,6 +47,6 @@
 - [✔️] Pass Functions as parameters
 - [✔️] Return Functions
 - [✔️] IIFE
-- [❌] Closure
+- [✔️] Closure
 - [❌] Bind Call Apply
 - [❌] Coding Challenge
