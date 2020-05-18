@@ -48,5 +48,7 @@
 - [✔️] Return Functions
 - [✔️] IIFE
 - [✔️] Closure
-- [❌] Bind Call Apply
-- [❌] Coding Challenge
+- [✔️] Bind Call Apply
+- [✔️] Coding Challenge
+
+### Section 6: Budget App
