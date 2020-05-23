@@ -52,3 +52,8 @@
 - [✔️] Coding Challenge
 
 ### Section 6: Budget App
+
+- [❌] Add index
+- [❌] Add css
+- [❌] Add js
+- [❌] Add img
